@@ -111,7 +111,30 @@ dmesg | grep container_monitor | tail -5
 
 ## 3. Demo Screenshots
 
-<!-- TODO: Add screenshots here -->
+Screenshot 1:
+<img width="975" height="169" alt="image" src="https://github.com/user-attachments/assets/9391d90b-8260-402a-be0b-b74c7cf12b21" />
+
+Screenshot 2:
+<img width="975" height="160" alt="image" src="https://github.com/user-attachments/assets/697d2d1d-3603-4527-ac85-8c9270c9539a" />
+
+Screenshot 4:
+<img width="975" height="47" alt="image" src="https://github.com/user-attachments/assets/962fcc6a-42ce-448d-9af0-8c6c6fcc3df0" />
+
+Screenshot 5:
+<img width="975" height="267" alt="image" src="https://github.com/user-attachments/assets/1c922f9e-76f1-4987-ab46-59cca26bb05d" />
+
+Screenshot 6:
+<img width="975" height="248" alt="image" src="https://github.com/user-attachments/assets/7b6e9ab2-4c3c-40de-a754-b4aa95a63cce" />
+
+Screenshot 7:
+<img width="975" height="1302" alt="image" src="https://github.com/user-attachments/assets/c6854572-f030-4b5f-8f12-6842e81efe9c" />
+
+Screenshot 8:
+Zero Zombie processes
+<img width="975" height="81" alt="image" src="https://github.com/user-attachments/assets/906ed845-8d98-4091-a5af-a81e5bfed892" />
+Module Unloaded
+<img width="975" height="202" alt="image" src="https://github.com/user-attachments/assets/c38066b0-b98c-4334-a402-d6e8956bfc36" />
+
 
 ---
 
